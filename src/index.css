@@ -1,0 +1,14 @@
+body{
+  padding: 50px;
+  padding-bottom: 500px;
+  background-color: azure;
+}
+
+h2{
+  color: black;
+}
+
+p{
+  background-color: azure;
+  padding: 10px;
+}
