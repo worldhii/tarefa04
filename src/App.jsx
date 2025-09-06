@@ -8,7 +8,7 @@ function App() {
     <>
 
     <div className='App'>
-      <h1>Tela de login</h1>
+     
       <Form/>
     </div>
 
